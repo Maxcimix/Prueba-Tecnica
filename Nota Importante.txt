@@ -1,0 +1,10 @@
+Ejecutar en el terminal la siguiente dependencia de Python:
+
+pip install flask
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+en la terminal encendemos nuestro servidor y llamamos nuestro programa:
+
+python app.py
+
