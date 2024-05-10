@@ -8,3 +8,9 @@ en la terminal encendemos nuestro servidor y llamamos nuestro programa:
 
 python app.py
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Descargar en la terminal:
+pip install pyodbc
+
+
